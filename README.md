@@ -14,13 +14,13 @@ Reimundo Heluani
 Philip Argyres
 Monica Kang
 
-Schedule
+Schedule:
 TBD
 
-Practical Information
+Practical Information:
 For practical information on travel to UMass to attend the summer school, see here.
 
-List of Participants
+List of Participants: <br /> 
 TBD
 
 Registration
