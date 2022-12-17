@@ -5,7 +5,7 @@ The Department of Mathematics and Statistics at the University of Massachusetts,
 The aim of the workshop is to introduce young researchers on the boundary between mathematics and physics to recent ideas in classical and quantum field theory using notions from complex geometry and algebraic topology. The target audience of the workshop is advanced graduate students and post-docs, from both mathematics and theoretical physics. The schedule will be designed to include a large amount of time for participants to interact. We hope especially to encourage conversations between mathematicians and physicists. 
 
 All talks will be held in the following location:
-Integrative Learning Center, Room S131
+TBD
 You can find a UMass Amherst campus map here. 
 
 There will be series of lectures given by: 
