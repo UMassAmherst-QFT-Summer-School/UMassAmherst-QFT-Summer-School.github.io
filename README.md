@@ -5,16 +5,16 @@ The [Department of Mathematics and Statistics](https://www.math.umass.edu) at th
 The aim of the workshop is to introduce young researchers on the boundary between mathematics and physics to recent ideas in classical and quantum field theory using notions from complex geometry and algebraic topology. The target audience of the workshop is advanced graduate students and post-docs, from both mathematics and theoretical physics. The schedule will be designed to include a large amount of time for participants to interact. We hope especially to encourage conversations between mathematicians and physicists. 
 
 All talks will be held in the following location:<br /> 
-TBD
+TBD<br /> 
 You can find a UMass Amherst campus map here. 
 
 There will be series of lectures given by: <br /> 
 [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/) -- Université Paris-Saclay, Paris <br /> 
 [Reimundo Heluani](https://w3.impa.br/~heluani/) -- Instituto Nacional de Matemática Pura e Aplicada (IMPA), Rio de Janeiro <br /> 
 Philip Argyres<br /> 
-Monica Kang<br /> 
+[Monica Kang](https://www.its.caltech.edu/~monica/)   <br /> 
 
-Schedule:
+Schedule:<br /> 
 TBD
 
 Practical Information:<br /> 
