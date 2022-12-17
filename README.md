@@ -10,7 +10,7 @@ You can find a UMass Amherst campus map here.
 
 There will be series of lectures given by: <br /> 
 Anne Moreau <br /> 
-Reimundo Heluani<br /> 
+[Reimundo Heluani](https://www.math.umass.edu) -- Instituto Nacional de Matemática Pura e Aplicada (IMPA),Rio de Janeiro <br /> 
 Philip Argyres<br /> 
 Monica Kang<br /> 
 
