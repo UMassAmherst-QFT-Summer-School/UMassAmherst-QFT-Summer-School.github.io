@@ -1,4 +1,6 @@
+
 ## The Physical Mathematics of Quantum Field Theory Summer School
+
 
 The [Department of Mathematics and Statistics](https://www.math.umass.edu) at the University of Massachusetts, Amherst will host a summer school on Physical Mathematics of Quantum Field Theory during the week of **July 17 - 21, 2023**.  
 
@@ -14,16 +16,16 @@ There will be series of lectures given by: <br />
 Philip Argyres<br /> 
 [Monica Kang](https://www.its.caltech.edu/~monica/) -- California Institute of Technology (Caltech)  <br /> 
 
-Schedule:<br /> 
+### Schedule:<br /> 
 TBD
 
-Practical Information:<br /> 
+### Travel Information:<br /> 
 For practical information on travel to UMass to attend the summer school, see here.
 
-List of Participants: <br /> 
+### List of Participants: <br /> 
 TBD
 
-Registration:<br /> 
+### Registration:<br /> 
 TBD
 
 
