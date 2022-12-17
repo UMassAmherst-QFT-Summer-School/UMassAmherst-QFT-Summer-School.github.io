@@ -35,8 +35,7 @@ Due to the volume of applications we have reached our maximum capacity, and regi
 
 
 If you have any questions, you can contact the organizers by e-mail at the following addresses 
-Chris Elliott: celliott@math.umass.edu 
 Owen Gwilliam: gwilliam@math.umass.edu 
-Matteo Lotito: mlotito@umass.edu 
-Last modified Monday February 28th, 2022.
+Chris Elliott: celliott@amherst.edu 
+Samantha Kirk: skirk@mtholyoke.edu
 UMass Mathematics home page.
