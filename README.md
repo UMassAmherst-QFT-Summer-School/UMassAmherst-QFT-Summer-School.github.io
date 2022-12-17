@@ -1,6 +1,3 @@
----
-title-heading: false
----
 
   ## The Physical Mathematics of Quantum Field Theory Summer School
 
