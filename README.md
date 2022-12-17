@@ -1,5 +1,4 @@
-# UMassAmherst-QFT-Summer-School.github.io
-Physical Mathematics of Quantum Field Theory
+## Physical Mathematics of Quantum Field Theory
 
 The Department of Mathematics and Statistics at the University of Massachusetts, Amherst will host a summer school on Physical Mathematics of Quantum Field Theory during the week August 1st to 5th, 2022. 
 
