@@ -12,7 +12,7 @@ There will be series of lectures given by: <br />
 [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/) -- Université Paris-Saclay, Paris <br /> 
 [Reimundo Heluani](https://w3.impa.br/~heluani/) -- Instituto Nacional de Matemática Pura e Aplicada (IMPA), Rio de Janeiro <br /> 
 Philip Argyres<br /> 
-[Monica Kang](https://www.its.caltech.edu/~monica/)   <br /> 
+[Monica Kang](https://www.its.caltech.edu/~monica/) -- California Institute of Technology (Caltech)  <br /> 
 
 Schedule:<br /> 
 TBD
