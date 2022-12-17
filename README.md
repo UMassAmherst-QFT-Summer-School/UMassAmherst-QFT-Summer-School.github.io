@@ -6,7 +6,7 @@ The aim of the workshop is to introduce young researchers on the boundary betwee
 
 All talks will be held in the following location:<br /> 
 TBD<br /> 
-You can find a UMass Amherst campus map here. 
+UMass Amherst [campus map](https://www.umass.edu/sites/default/files/2021-06/campus-map.pdf) 
 
 There will be series of lectures given by: <br /> 
 [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/) -- Université Paris-Saclay, Paris <br /> 
