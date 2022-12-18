@@ -16,7 +16,7 @@ TBD
 
 ### Location:<br /> 
 TBD<br /> 
-UMass Amherst [campus map](https://www.umass.edu/sites/default/files/2021-06/campus-map.pdf) 
+[Campus map](https://www.umass.edu/sites/default/files/2021-06/campus-map.pdf) 
 
 ### Travel Information:<br /> 
 For practical information on travel to UMass to attend the summer school, see here.
