@@ -26,6 +26,7 @@ TBD
 ### Registration:<br /> 
 TBD
 
+---
 
 If you have any questions, you can contact the organizers by e-mail at the following addresses <br /> 
 [Owen Gwilliam:] (gwilliam@math.umass.edu) <br /> 
