@@ -28,6 +28,6 @@ TBD
 
 
 If you have any questions, you can contact the organizers by e-mail at the following addresses <br /> 
-Owen Gwilliam: gwilliam@math.umass.edu <br /> 
-Chris Elliott: celliott@amherst.edu <br /> 
-Samantha Kirk: skirk@mtholyoke.edu<br /> 
+[Owen Gwilliam:] (gwilliam@math.umass.edu) <br /> 
+[Chris Elliott:] (celliott@amherst.edu) <br /> 
+[Samantha Kirk:] (skirk@mtholyoke.edu) <br /> 
