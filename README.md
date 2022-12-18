@@ -11,8 +11,8 @@ UMass Amherst [campus map](https://www.umass.edu/sites/default/files/2021-06/cam
 There will be series of lectures given by: <br /> 
 [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/) -- Université Paris-Saclay, Paris <br /> 
 [Reimundo Heluani](https://w3.impa.br/~heluani/) -- Instituto Nacional de Matemática Pura e Aplicada (IMPA), Rio de Janeiro <br /> 
-Philip Argyres<br /> 
-[Monica Kang](https://www.its.caltech.edu/~monica/) -- California Institute of Technology (Caltech)  <br /> 
+[Philip Argyres](https://homepages.uc.edu/~argyrepc/) -- University of Cincinnati <br /> 
+[Monica Kang](https://www.its.caltech.edu/~monica/) -- California Institute of Technology  <br /> 
 
 ### Schedule:<br /> 
 TBD
