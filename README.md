@@ -1,4 +1,4 @@
-## <p align="center"> The Physical Mathematics of Quantum Field Theory Summer School </p>
+<p align="center"> ## The Physical Mathematics of Quantum Field Theory Summer School </p>
 
 
 The [Department of Mathematics and Statistics](https://www.math.umass.edu) at the University of Massachusetts, Amherst will host a summer school on Physical Mathematics of Quantum Field Theory during the week of **July 17 - 21, 2023**. The summer school is funded by an NSF grant.
