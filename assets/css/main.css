@@ -1909,8 +1909,10 @@ input, select, textarea {
 	}
 
 		#header > .container {
-			padding: 7em 0 7em 0;
-			<!-- border-bottom: solid 2px #e5e5e5;-->
+			padding: 7em 0 2em 0;
+			<!-- 
+			border-bottom: solid 2px #e5e5e5; 
+			-->
 			box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
 		}
 
